@@ -1,0 +1,46 @@
+Example 1
+
+Summarize this text:
+India is a large country with many cultures.
+
+-----------------------------------
+
+Example 2 - Triple Backticks
+
+Summarize the text inside backticks.
+
+```text
+Artificial Intelligence is changing the world.
+```
+
+-----------------------------------
+
+Example 3 - XML Tags
+
+<instruction>
+Translate into Hindi
+</instruction>
+
+<data>
+Machine Learning is powerful.
+</data>
+
+-----------------------------------
+
+Example 4 - JSON Format
+
+{
+  "task": "Sentiment Analysis",
+  "input": "This phone is amazing.",
+  "output": "Positive"
+}
+
+-----------------------------------
+
+Example 5 - Markdown Format
+
+# Student Details
+
+- Name: Sanjay
+- Branch: EX
+- Semester: 6th

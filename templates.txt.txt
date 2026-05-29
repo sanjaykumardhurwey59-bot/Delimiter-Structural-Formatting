@@ -1,0 +1,30 @@
+Template 1 - XML
+
+<instruction>
+Write instruction here
+</instruction>
+
+<data>
+Write data here
+</data>
+
+-----------------------------------
+
+Template 2 - JSON
+
+{
+  "instruction": "",
+  "input": "",
+  "output": ""
+}
+
+-----------------------------------
+
+Template 3 - Markdown
+
+# Title
+
+## Subtitle
+
+- Point 1
+- Point 2
